@@ -1,5 +1,4 @@
 #include <iostream>
-#include <unistd.h>
 
 using namespace std;
 
@@ -9,3 +8,5 @@ class Cperson
 		Cperson(){}
 		~Cperson(){}
 };
+
+Cperson *p1=nullptr;
