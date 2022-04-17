@@ -59,3 +59,37 @@
 英雄联盟|98|24
 Apex|198|7
 
+# 代码
+##### 在文档中插入代码片段
+
+```c
+#include <stdio.h>
+int main()
+{
+	printf("Hello C!\n");
+	return 0;
+}
+```
+
+```cpp
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout<<"Hello C++!"<<endl;
+}
+```
+
+```python
+import os
+def main():
+	loop = asyncio.get_event_loop()
+if __name == '__main__':
+	main()
+```
+
+```bash
+	netstate -apn | Grep
+	od -ctx files
+	touch testfile
+```
