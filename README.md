@@ -93,3 +93,10 @@ if __name == '__main__':
 	od -ctx files
 	touch testfile
 ```
+
+# 超链接
+[Bilibili](https://www.bilibili.com "点击访问B站")
+[百度搜素](https://www.baidu.com "点击跳转到百度")
+
+# 插入图片
+![截图](C://Users//dell//Desktop//pic.png "点击图片")
